@@ -1,0 +1,322 @@
+{
+    "roster_type": 3,
+    "captains": [
+        {
+            "name": "Bodhi Beroukhim",
+            "year": "25",
+            "hometown": "Brookline, MA",
+            "number": ""
+        },
+        {
+            "name": "Evangeline Murphy",
+            "year": "25",
+            "hometown": "Andover, MA",
+            "number": ""
+        },
+        {
+            "name": "Daniella Nugent",
+            "year": "25",
+            "hometown": "Boxford, MA",
+            "number": ""
+        },
+        {
+            "name": "Julian Rios",
+            "year": "26",
+            "hometown": "Lowell, MA",
+            "number": ""
+        }
+    ],
+    "players": [
+        {
+            "name": "Serra Akyali",
+            "year": "28",
+            "hometown": "New York, NY",
+            "number": ""
+        },
+        {
+            "name": "James Bae",
+            "year": "26",
+            "hometown": "New York, NY",
+            "number": ""
+        },
+        {
+            "name": "Caleb Beroukhim",
+            "year": "27",
+            "hometown": "Brookline, MA",
+            "number": ""
+        },
+        {
+            "name": "Gauri Bhakta",
+            "year": "28",
+            "hometown": "Andover, MA",
+            "number": ""
+        },
+        {
+            "name": "Tasha Bohorad",
+            "year": "26",
+            "hometown": "Orwigsburg, PA",
+            "number": ""
+        },
+        {
+            "name": "Seokwoo Byun",
+            "year": "28",
+            "hometown": "Seoul, KR",
+            "number": ""
+        },
+        {
+            "name": "Yoonwoo Cho",
+            "year": "28",
+            "hometown": "Irvine, CA",
+            "number": ""
+        },
+        {
+            "name": "Minjun Choi",
+            "year": "27",
+            "hometown": "Seoul, KR",
+            "number": ""
+        },
+        {
+            "name": "Destiny Covington",
+            "year": "26",
+            "hometown": "Bronx, NY",
+            "number": ""
+        },
+        {
+            "name": "Lisa deBoer",
+            "year": "26",
+            "hometown": "Amsterdam, NL",
+            "number": ""
+        },
+        {
+            "name": "Antonia Elliott",
+            "year": "27",
+            "hometown": "Naches, WA",
+            "number": ""
+        },
+        {
+            "name": "Sean Flynn",
+            "year": "27",
+            "hometown": "Sneads Ferry, NC",
+            "number": ""
+        },
+        {
+            "name": "Konnor Fortini",
+            "year": "28",
+            "hometown": "Woodside, NY",
+            "number": ""
+        },
+        {
+            "name": "Sebastian Haferd",
+            "year": "25",
+            "hometown": "Cambridge, MA",
+            "number": ""
+        },
+        {
+            "name": "Narek Hambardzumyan",
+            "year": "26",
+            "hometown": "Merrimack, NH",
+            "number": ""
+        },
+        {
+            "name": "Brady Haskell",
+            "year": "28",
+            "hometown": "Swampscott, MA",
+            "number": ""
+        },
+        {
+            "name": "Siravit Hengsuvanich",
+            "year": "25",
+            "hometown": "Washington, DC",
+            "number": ""
+        },
+        {
+            "name": "Jackson Hersom",
+            "year": "27",
+            "hometown": "North Andover, MA",
+            "number": ""
+        },
+        {
+            "name": "Elias Jeon",
+            "year": "28",
+            "hometown": "River Edge, NJ",
+            "number": ""
+        },
+        {
+            "name": "Magnus Julin",
+            "year": "25",
+            "hometown": "North Andover, MA",
+            "number": ""
+        },
+        {
+            "name": "Grace Kim",
+            "year": "27",
+            "hometown": "Yongin-si, AA",
+            "number": ""
+        },
+        {
+            "name": "Fumihiko Kimura",
+            "year": "25",
+            "hometown": "Tajimi, JP",
+            "number": ""
+        },
+        {
+            "name": "Anish Kumar",
+            "year": "28",
+            "hometown": "Andover, MA",
+            "number": ""
+        },
+        {
+            "name": "Matthew Lam",
+            "year": "28",
+            "hometown": "San Francisco, CA",
+            "number": ""
+        },
+        {
+            "name": "Ophelia Lee",
+            "year": "26",
+            "hometown": "Gainesville, FL",
+            "number": ""
+        },
+        {
+            "name": "Nicolas Lima",
+            "year": "25",
+            "hometown": "Sea Girt, NJ",
+            "number": ""
+        },
+        {
+            "name": "Daniel Liu",
+            "year": "28",
+            "hometown": "Clyde Hill, WA",
+            "number": ""
+        },
+        {
+            "name": "Nicholas Marini",
+            "year": "28",
+            "hometown": "Lynnfield, MA",
+            "number": ""
+        },
+        {
+            "name": "Sunghoon Park",
+            "year": "26",
+            "hometown": "Yeonsu-Gu, Incheon, KR",
+            "number": ""
+        },
+        {
+            "name": "Elizandro Pereira",
+            "year": "27",
+            "hometown": "Dorchester, MA",
+            "number": ""
+        },
+        {
+            "name": "Christian Robinson",
+            "year": "28",
+            "hometown": "Wake Forest, NC",
+            "number": ""
+        },
+        {
+            "name": "Oliver Rogers",
+            "year": "28",
+            "hometown": "Minatoku, Tokyo, JP",
+            "number": ""
+        },
+        {
+            "name": "Jake Santos",
+            "year": "28",
+            "hometown": "Methuen, MA",
+            "number": ""
+        },
+        {
+            "name": "Layla Shmuylovich",
+            "year": "26",
+            "hometown": "Toronto, CA",
+            "number": ""
+        },
+        {
+            "name": "David Siahaan",
+            "year": "27",
+            "hometown": "Chambersburg, PA",
+            "number": ""
+        },
+        {
+            "name": "Kibalo Signan",
+            "year": "25",
+            "hometown": "Bronx, NY",
+            "number": ""
+        },
+        {
+            "name": "Gentry Thatcher",
+            "year": "27",
+            "hometown": "Andover, MA",
+            "number": ""
+        },
+        {
+            "name": "Winston-Hughes Wall",
+            "year": "25",
+            "hometown": "Waterville, ME",
+            "number": ""
+        },
+        {
+            "name": "Kai Wang",
+            "year": "27",
+            "hometown": "Princeton, NJ",
+            "number": ""
+        },
+        {
+            "name": "Alessandra Chung",
+            "year": "27",
+            "hometown": "Hong Kong, HK",
+            "number": ""
+        },
+        {
+            "name": "Reese York",
+            "year": "26",
+            "hometown": "Andover, MA",
+            "number": ""
+        },
+        {
+            "name": "Youran Zhang",
+            "year": "27",
+            "hometown": "Tianjin, CN",
+            "number": ""
+        },
+        {
+            "name": "Ziqi Zheng",
+            "year": "27",
+            "hometown": "Andover, MA",
+            "number": ""
+        },
+        {
+            "name": "Cindy Zhou",
+            "year": "27",
+            "hometown": "Dallas, TX",
+            "number": ""
+        }
+    ],
+    "managers": [
+        {
+            "name": "Aeva Cleare",
+            "year": "26",
+            "hometown": "Andover, MA"
+        },
+        {
+            "name": "Evelyn Lagrandeur",
+            "year": "26",
+            "hometown": "Miami, FL"
+        },
+        {
+            "name": "Ellen Mueller",
+            "year": "26",
+            "hometown": "Andover, MA"
+        },
+        {
+            "name": "Julia Rocha",
+            "year": "25",
+            "hometown": "Lawrence, MA"
+        },
+        {
+            "name": "Margaret Tsien",
+            "year": "26",
+            "hometown": "Andover, MA"
+        }
+    ]
+}
