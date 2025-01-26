@@ -4,11 +4,12 @@ Automatic roster maker for the Phillipian's Graphic Design section! Manually cop
 James Xiao '25 CXLVII
 
 ## Setup and Instructions
-1. Create a copy of the ```Roster TEMPLATE.ai``` Adobe Illustrator file and place it in where you would usually house your graphic design files. Do not modify the file.
-2. Copy the Andover Athletics roster link for the roster you want to create.
-3. Open ```roster_scraping_WINDOWS.exe``` or ```roster_scraping_MacOS.exe``` depending on whether you are using the Windows or macOS operating system. Follow instructions in terminal.
-4. Once the program closes, navigate to your copied roster template Illustrator file. Go to File>>Scripts>>Other Script and click on ```auto_roster_script.jsx```.
-5. After some rearranging and formatting of players and adding graphics, you should be all set!
+1. Clone this repository or download and unzip it as a file.
+2. Create a copy of the ```Roster TEMPLATE.ai``` Adobe Illustrator file and place it in where you would usually house your graphic design files. Do not modify the file.
+3. Copy the Andover Athletics roster link for the roster you want to create.
+4. Open ```roster_scraping_WINDOWS.exe``` or ```roster_scraping_MacOS.exe``` depending on whether you are using the Windows or macOS operating system. Follow instructions in terminal.
+5. Once the program closes, navigate to your copied roster template Illustrator file. Go to File>>Scripts>>Other Script and click on ```auto_roster_script.jsx```.
+6. After some rearranging and formatting of players and adding graphics, you should be all set!
 
 ## Details
 A Python file (```roster_scraping.py```) is responsible for scraping the Andover Athletics roster webpage using BeautifulSoup. This data is then processed and stored to a JSON file.
