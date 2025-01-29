@@ -11,6 +11,7 @@ James Xiao '25 CXLVII
 4. **For Windows users:**
     a. Open ```roster_scraping_WINDOWS.exe``` and follow instructions in terminal.
 5. **For macOS users:**
+
 Unfortunately, .exe files compatible with Windows cannot be executed by macOS. Furthermore, macOS-compatible .exe files, once pushed to GitHub and redownloaded will be detected as malware. Because of this, it is easier to just create the .exe file from the Python file locally on your device. If anyone knows other workarounds to this, let me know!
     1. Open up Terminal and navigate to the folder that AutoRoster resides in.
     2. Type in ```pip install pyinstaller==5.1``` in the terminal.
