@@ -19,13 +19,13 @@ Unfortunately, .exe files compatible with Windows cannot be executed by macOS. F
     4. After loading, you will see a folder named ```dist``` in the AutoRoster folder. Inside should be a ```roster_scraping``` executable file. Move this file into the outer AutoRoster folder, in the same folder as json2.js and the other files.
     5. Execute the file. It may take a while to load, but once it does, follow the instructions in terminal. **The processes above for macOS users only need to be done once! Once you have the executable, you can use it for all other rosters created.**
 6. Once the program closes, you should see a newly-created/updated ```data.json``` file in the AutoRoster folder. 
-7. Navigate to your copied roster template Illustrator file. Go to File>>Scripts>>Other Script and click on ```auto_roster_script.jsx```. The file should autopopulate with all players, captains, and managers
+7. Navigate to your copied roster template Illustrator file. Go to File>>Scripts>>Other Script and click on ```auto_roster_script.jsx```. The file should autopopulate with all players, captains, and managers.
 8. After some rearranging and formatting of players and adding graphics, you should be all set!
 
 ## Details
 A Python file (```roster_scraping.py```) is responsible for scraping the Andover Athletics roster webpage using BeautifulSoup. This data is then processed and stored to a JSON file.
 
-A Python executable was created with PyInstaller for both Windows and MacOS, so users will not need to install dependencies to run the script.
+A Python executable was created with PyInstaller for Windows. MacOS users will unfortunately have to create the executable on their own, as Mac does not allow execution of downloaded executables.
 
 Python cannot effectively interact with Adobe Illustrator on its own, but Illustrator has an automation tool called scripting. A JavaScript file (```auto_roster_script.jsx```) is run in an .ai document that reads from the JSON file and copies the data onto the artboard.
 
